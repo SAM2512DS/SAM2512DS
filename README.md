@@ -3,7 +3,7 @@
 
 - 🔭 completing e-commerce project in python using django framework.. [https://foods.pythonanywhere.com/](https://foods.pythonanywhere.com/)
 
-- 👯 I’m looking to collaborate on [Streamlit-Mushroom-BulkPredictions](https://app-bulk-prediction-apxapevhs6svpsp3lvqbzt.streamlit.app/)
+- 🔭 Projects in ML [Streamlit-Mushroom-BulkPredictions](https://app-bulk-prediction-apxapevhs6svpsp3lvqbzt.streamlit.app/)
 
 - 📫 How to reach me **samsdp2512@gmail.com**
 

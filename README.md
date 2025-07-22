@@ -37,7 +37,7 @@
 | **🎨 Responsive Webpage CSS** | [GitHub](https://github.com/SAM2512DS/Responsive-Webpage-using-CSS) | HTML, CSS |
 | **🛒 E-Commerce Shoppy** | [GitHub](https://github.com/SAM2512DS/E-commerce-shoppy-python) | Django, SQLite |
 | **🪪 Portfolioproject** | [GitHub](https://github.com/SAM2512DS/portfolioproject)  | Python,Django, HTML,CSS,JavsScript,SQLite |
-| **🌍 Disaster Management System** | [GitHub](https://github.com/SAM2512DS/DISASTER-MANAGEMENT-SYSTEM))  | Python,Django,React, HTML,SCSS,,JavsScript,Docker,Redis,websocket,PostgreSQL |
+| **🌍 Disaster Management System** | [GitHub](https://github.com/SAM2512DS/DISASTER-MANAGEMENT-SYSTEM)  | Python,Django,React, HTML,SCSS,,JavsScript,Docker,Redis,websocket,PostgreSQL |
 
 ---
 

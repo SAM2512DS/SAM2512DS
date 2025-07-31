@@ -29,7 +29,7 @@
 
 | 💼 Project Name | 🔗 Link | 🧠 Tech Stack |
 |----------------|---------|---------------|
-| **🛒 E-Commerce Web App** | [Live Demo](https://foods.pythonanywhere.com/) | Django, SQLite, Bootstrap |
+| **🛒 E-Commerce Web App** | [GitHub](https://github.com/SAM2512DS/E-commerce-shoppy-python) | Django, SQLite, Bootstrap |
 | **🍄 Streamlit Mushroom Bulk Predictions** | [GitHub](https://github.com/SAM2512DS/Streamlit-bulk-prediction) | Streamlit, Scikit-learn |
 | **📬 Email Classification** | [GitHub](https://github.com/SAM2512DS/Email_classification-_with_EDA-_and-_ML) | NLP, EDA, ML |
 | **🚰 Water Potability Prediction** | [GitHub](https://github.com/SAM2512DS/Water_potability_prediction) | ML, EDA |

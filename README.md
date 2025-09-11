@@ -42,6 +42,7 @@
 | **🛒 E-Commerce Shoppy** | [GitHub](https://github.com/SAM2512DS/E-commerce-shoppy-python) | Django, SQLite |
 | **🪪 Portfolioproject** | [GitHub](https://github.com/SAM2512DS/portfolioproject)  | Python,Django, HTML,CSS,JavsScript,SQLite |
 | **🌍 Disaster Management System** | [GitHub](https://github.com/SAM2512DS/DISASTER-MANAGEMENT-SYSTEM)  | Python,Django,React, HTML,SCSS,JavsScript,Docker,Redis,websocket,PostgreSQL |
+| **🧠 BrainTumor-Detection-Using-DeepLearningVGG16** | [GitHub](https://github.com/SAM2512DS/BrainTumor-Detection-Using-DeepLearningVGG16) | Python,ML,DeepLearning,TensorFlow,Keras,VGG16,Django, SQLite |
 
 ---
 

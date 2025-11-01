@@ -43,7 +43,7 @@
 | **🪪 Portfolioproject** | [GitHub](https://github.com/SAM2512DS/portfolioproject)  | Python,Django, HTML,CSS,JavsScript,SQLite |
 | **🌍 Disaster Management System** | [GitHub](https://github.com/SAM2512DS/DISASTER-MANAGEMENT-SYSTEM)  | Python,Django,React, HTML,SCSS,JavsScript,Docker,Redis,websocket,PostgreSQL |
 | **🧠 BrainTumor-Detection-Using-DeepLearningVGG16** | [GitHub](https://github.com/SAM2512DS/BrainTumor-Detection-Using-DeepLearningVGG16) | Python,ML,DeepLearning,TensorFlow,Keras,VGG16,Django, SQLite |
-
+| **👾 Gemma 3 AI Assistant** | [GitHub](https://github.com/SAM2512DS/Gen-AI-App-Using-Gemma-3) | Streamlit, LLM, ollama,pandas,PromptEngineering |
 ---
 
 ### 📈 GitHub Stats

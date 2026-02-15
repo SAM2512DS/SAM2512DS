@@ -42,7 +42,7 @@
 | **🌍 Disaster Management System** | [GitHub](https://github.com/SAM2512DS/DISASTER-MANAGEMENT-SYSTEM)  | Python,Django,React, HTML,SCSS,JavsScript,Docker,Redis,websocket,PostgreSQL |
 | **🧠 BrainTumor-Detection-Using-DeepLearningVGG16** | [GitHub](https://github.com/SAM2512DS/BrainTumor-Detection-Using-DeepLearningVGG16) | Python,ML,DeepLearning,TensorFlow,Keras,VGG16,Django, SQLite |
 | **👾 Gemma 3 AI Assistant** | [GitHub](https://github.com/SAM2512DS/Gen-AI-App-Using-Gemma-3) | Streamlit, LLM, ollama,pandas,PromptEngineering |
-| **🤖 Enterprise RAG System** | [GitHub](https://github.com/SAM2512DS/Enterprise-RAG-System) | Streamlit, LLM, Groq,FAST API,PromptEngineering,RAG |
+| **🤖 Enterprise RAG System** | [GitHub](https://github.com/SAM2512DS/Enterprise-RAG-System) | python,Streamlit, LLM, Groq,FAST API,PromptEngineering,RAG |
 ---
 
 ### 📈 GitHub Stats

@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Data Scientist | Python, ML & Full-Stack Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sam-devaprasanth-a-410740a2/" target="_blank">
+  <a href="https://www.linkedin.com/in/samdevaprasanth/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:samsdp2512@gmail.com">

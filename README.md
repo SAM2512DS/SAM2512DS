@@ -27,17 +27,7 @@
 
 | 💼 Project Name | 🔗 Link | 🧠 Tech Stack |
 |----------------|---------|---------------|
-| **🛒 E-Commerce Web App** | [GitHub](https://github.com/SAM2512DS/E-commerce-shoppy-python) | Django, SQLite, Bootstrap |
-| **🍄 Streamlit Mushroom Bulk Predictions** | [GitHub](https://github.com/SAM2512DS/Streamlit-bulk-prediction) | Streamlit, Scikit-learn |
-| **📬 Email Classification** | [GitHub](https://github.com/SAM2512DS/Email_classification-_with_EDA-_and-_ML) | NLP, EDA, ML |
 | **🚰 Water Potability Prediction** | [GitHub](https://github.com/SAM2512DS/Water_potability_prediction) | ML, EDA |
-| **💼 Insurance Premium Prediction** | [GitHub](https://github.com/SAM2512DS/Insurance-Premium-Prediction) | Linear Regression, ML |
-| **🤖 Chatbot Using NLP** | [GitHub](https://github.com/SAM2512DS/CHATBOT-CREATION-USING--NLP) | NLP, Flask |
-| **📦 Flask Bulk Predict** | [GitHub](https://github.com/SAM2512DS/flask_bulk_predict) | Flask, ML |
-| **🧪 Flask One-on-One App** | [GitHub](https://github.com/SAM2512DS/Flask-one-on-one-app) | Flask, HTML/CSS |
-| **🧠 Flask One-on-One Heroku** | _Private Repo_ | Heroku, Flask |
-| **🎨 Responsive Webpage CSS** | [GitHub](https://github.com/SAM2512DS/Responsive-Webpage-using-CSS) | HTML, CSS |
-| **🛒 E-Commerce Shoppy** | [GitHub](https://github.com/SAM2512DS/E-commerce-shoppy-python) | Django, SQLite |
 | **🪪 Portfolioproject** | [GitHub](https://github.com/SAM2512DS/portfolioproject)  | Python,Django, HTML,CSS,JavsScript,SQLite |
 | **🌍 Disaster Management System** | [GitHub](https://github.com/SAM2512DS/DISASTER-MANAGEMENT-SYSTEM)  | Python,Django,React, HTML,SCSS,JavsScript,Docker,Redis,websocket,PostgreSQL |
 | **🧠 BrainTumor-Detection-Using-DeepLearningVGG16** | [GitHub](https://github.com/SAM2512DS/BrainTumor-Detection-Using-DeepLearningVGG16) | Python,ML,DeepLearning,TensorFlow,Keras,VGG16,Django, SQLite |

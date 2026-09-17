@@ -33,6 +33,7 @@
 | **🧠 BrainTumor-Detection-Using-DeepLearningVGG16** | [GitHub](https://github.com/SAM2512DS/BrainTumor-Detection-Using-DeepLearningVGG16) | Python,ML,DeepLearning,TensorFlow,Keras,VGG16,Django, SQLite |
 | **👾 Gemma 3 AI Assistant** | [GitHub](https://github.com/SAM2512DS/Gen-AI-App-Using-Gemma-3) | Streamlit, LLM, ollama,pandas,PromptEngineering |
 | **🩺 Clinical Q&A AI Assistant** |  [GitHub](https://github.com/SAM2512DS/azure-clinical-qa-bot) | Python, Flask, RAG, Azure OpenAI, Azure AI Search, LangChain, Prompt Engineering |
+| **🕸️ Azure Multimodal RAG Platform with GraphRAG** | [GitHub](https://github.com/SAM2512DS/azure-multimodal-rag-graphrag) | Python, FastAPI, React, Azure OpenAI (GPT-4o, text-embedding-3-small), Azure AI Search, Neo4j AuraDB, Neon PostgreSQL, JWT, GitHub Actions, Azure Static Web Apps, Azure App Service |
 
 ---
 

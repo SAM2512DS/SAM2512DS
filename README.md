@@ -1,162 +1,262 @@
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    HERO / HEADER SECTION                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-  <!-- Animated Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+SAM+DEVA+PRASANTH+A;AI%2FML+%26+Generative+AI+Engineer;LLM+%E2%80%A2+RAG+%E2%80%A2+Python+Full-Stack" alt="Typing SVG" />
+<a href="https://github.com/SAM2512DS">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&height=70&lines=SAM+DEVA+PRASANTH+A;AI%2FML+%26+Generative+AI+Engineer;LLM+%7C+RAG+%7C+Python+Full-Stack" alt="Header" />
+</a>
 
-  <p><b>Building intelligent systems that turn data into decisions.</b></p>
+<br>
 
-  <a href="https://www.linkedin.com/in/samdevaprasanth/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:samsdp2512@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/samsam25">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://github.com/SAM2512DS">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<!-- Status Line -->
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-2EA043?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FOCUS-Generative%20AI%20%26%20LLMs-58A6FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LOCATION-Tamil%20Nadu%2C%20India-8B949E?style=flat-square&labelColor=0D1117" />
+
+<br><br>
+
+<!-- Primary CTAs -->
+<a href="https://www.linkedin.com/in/samdevaprasanth/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="mailto:samsdp2512@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://www.kaggle.com/samsam25">
+  <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0D1117" />
+</a>
 
 </div>
 
----
+<br>
 
-### 🧑‍💻 About Me
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      ABOUT SECTION                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-I'm a **Generative AI Engineer** focused on building **production-grade LLM and RAG systems** with a strong Python full-stack foundation. I enjoy taking ideas from notebook → API → deployed product.
-
-- 🔭 **Currently:** Building full-stack ML web apps with **Django, FastAPI & Streamlit**
-- 🧠 **Deep into:** LLMs, RAG pipelines, Agentic AI & GraphRAG
-- 🌱 **Exploring:** React, Node.js & Docker for deployment-ready projects
-- 💬 **Ask me about:** Python • Django • ML • Data Science • LLMs
-- 📫 **Reach me:** **samsdp2512@gmail.com**
-- 🌍 **Based in:** Tamil Nadu, India
-
----
-
-### 🛠️ Tech Stack
+<h2 align="center">⚡ Engineering Intelligent Systems</h2>
 
 <p align="center">
-  <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css" />
+  <i>I design and ship production-grade AI applications — from LLM-powered RAG pipelines<br>
+  to full-stack Python platforms — turning complex data into decisions.</i>
 </p>
 
-<p align="center">
-  <b>Frameworks & Libraries</b><br>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,bootstrap" />
-</p>
-
-<p align="center">
-  <b>ML / Data Science</b><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-  <br>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3B4C99?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-025E8C?style=flat&logo=lightning&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>DevOps & Cloud</b><br>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,azure,heroku" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Generative AI & LLM Stack</b><br>
-  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-0A3D62?style=flat&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-1C1C1C?style=flat&logo=llamaindex&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-FF007F?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-4B0082?style=flat&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-2E8B57?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-<table>
+<table align="center" border="0">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🕸️ Azure Multimodal RAG Platform</h4>
-      <p>GraphRAG system with Azure OpenAI, Neo4j AuraDB & FastAPI.</p>
-      <a href="https://github.com/SAM2512DS/azure-multimodal-rag-graphrag"><b>View Repo →</b></a>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Experience-AI%2FML%20%26%20GenAI-58A6FF?style=for-the-badge&labelColor=0D1117" />
     </td>
-    <td width="50%" valign="top">
-      <h4>🩺 Clinical Q&A AI Assistant</h4>
-      <p>RAG-based clinical assistant using Azure OpenAI, AI Search & LangChain.</p>
-      <a href="https://github.com/SAM2512DS/azure-clinical-qa-bot"><b>View Repo →</b></a>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Specialty-RAG%20%26%20LLMs-2EA043?style=for-the-badge&labelColor=0D1117" />
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>👾 Gemma 3 AI Assistant</h4>
-      <p>Streamlit local LLM assistant using Ollama, Pandas & prompt engineering.</p>
-      <a href="https://github.com/SAM2512DS/Gen-AI-App-Using-Gemma-3"><b>View Repo →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌍 Disaster Management System</h4>
-      <p>Full-stack platform with Django, React, Docker, Redis & WebSockets.</p>
-      <a href="https://github.com/SAM2512DS/DISASTER-MANAGEMENT-SYSTEM"><b>View Repo →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 Brain Tumor Detection (VGG16)</h4>
-      <p>Deep learning classifier with TensorFlow, Keras & Django.</p>
-      <a href="https://github.com/SAM2512DS/BrainTumor-Detection-Using-DeepLearningVGG16"><b>View Repo →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚰 Water Potability Prediction</h4>
-      <p>End-to-end ML pipeline with EDA and model comparison.</p>
-      <a href="https://github.com/SAM2512DS/Water_potability_prediction"><b>View Repo →</b></a>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Stack-Python%20Full--Stack-A371F7?style=for-the-badge&labelColor=0D1117" />
     </td>
   </tr>
 </table>
 
----
+<br>
 
-### 📊 GitHub Activity
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     TECH STACK SECTION                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAM2512DS&show_icons=true&theme=tokyonight&hide_border=true&hide=prs&rank_icon=github" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SAM2512DS&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAM2512DS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
 
-  <i>“In God we trust. All others must bring data.”</i>
-  <br>
+<table border="0">
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=py,mysql,js,html,css" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>ML / DS</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+      <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white" />
+      <img src="https://img.shields.io/badge/LightGBM-025E8C?style=flat-square&logo=lightning&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps / Cloud</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=docker,git,github,azure,heroku" />
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>GenAI / LLM</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/LangChain-0A3D62?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/LlamaIndex-1C1C1C?style=flat-square&logo=llamaindex&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAG-4B0082?style=flat-square&logo=databricks&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🚀 Featured Work</h2>
+
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕸️ Azure Multimodal RAG Platform</h3>
+      <p><i>Enterprise GraphRAG system combining multimodal retrieval with knowledge graphs.</i></p>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/SAM2512DS/azure-multimodal-rag-graphrag">
+        <img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩺 Clinical Q&A AI Assistant</h3>
+      <p><i>RAG-based medical assistant with Azure AI Search and LangChain orchestration.</i></p>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-0A3D62?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/SAM2512DS/azure-clinical-qa-bot">
+        <img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👾 Gemma 3 AI Assistant</h3>
+      <p><i>Local LLM assistant powered by Ollama with a Streamlit interface.</i></p>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/SAM2512DS/Gen-AI-App-Using-Gemma-3">
+        <img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 Disaster Management System</h3>
+      <p><i>Real-time full-stack platform with WebSockets, Redis and Docker.</i></p>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/SAM2512DS/DISASTER-MANAGEMENT-SYSTEM">
+        <img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Brain Tumor Detection (VGG16)</h3>
+      <p><i>Deep learning classifier for MRI scans with a Django inference UI.</i></p>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+      <img src="https://img.shields.io/badge/VGG16-4B0082?style=flat-square&logo=python&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/SAM2512DS/BrainTumor-Detection-Using-DeepLearningVGG16">
+        <img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚰 Water Potability Prediction</h3>
+      <p><i>End-to-end ML pipeline with exploratory data analysis and model comparison.</i></p>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/EDA-58A6FF?style=flat-square&logo=jupyter&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/SAM2512DS/Water_potability_prediction">
+        <img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SAM2512DS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SAM2512DS&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAM2512DS&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=500" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAM2512DS&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        FOOTER                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h3>💬 Let's Build Something Intelligent</h3>
+
+<p><i>Open to collaborations, freelance work and full-time opportunities in AI/ML & Generative AI.</i></p>
+
+<a href="https://www.linkedin.com/in/samdevaprasanth/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:samsdp2512@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.kaggle.com/samsam25">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<a href="https://github.com/SAM2512DS">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<blockquote>
+  <i>“In God we trust. All others must bring data.”</i><br>
   <b>— W. Edwards Deming</b>
+</blockquote>
 
-  <br><br>
+<br>
 
-  <a href="https://www.linkedin.com/in/samdevaprasanth/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:samsdp2512@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/samsam25">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=SAM2512DS&label=Profile%20Views&color=58A6FF&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=SAM2512DS&label=Profile%20Views&color=58A6FF&style=flat-square" />
+<img src="https://img.shields.io/github/followers/SAM2512DS?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/SAM2512DS?label=Stars&style=flat-square&color=58A6FF&labelColor=0D1117" />
 
 </div>

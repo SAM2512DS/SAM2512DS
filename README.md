@@ -75,7 +75,7 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=flat&logo=microsoftazure&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
     </td>
     <td align="center" valign="top">

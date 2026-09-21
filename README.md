@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAM DEVA PRASANTH A</h1>
 
 <h3 align="center">
-  🚀 AI/ML & Generative AI Engineer | LLM • RAG • Python Full-Stack
+  🚀 AI/ML & Generative AI Engineer | LLM | RAG | Python Full-Stack
 </h3>
 
 <p align="center">
@@ -29,6 +29,7 @@
 - 💬 Ask me about **Python, LLMs, RAG, Azure AI & Data Science**
 - 📫 Reach me at **samsdp2512@gmail.com**
 - 🌍 Based in **Tamil Nadu, India**
+
 ---
 
 ### 🛠️ Tech Stack
@@ -109,37 +110,37 @@
     <tr>
       <td><b>🕸️ Azure Multimodal RAG Platform with GraphRAG</b></td>
       <td>Python, FastAPI, React, Azure OpenAI (GPT-4o, text-embedding-3-small), Azure AI Search, Neo4j AuraDB, Neon PostgreSQL, JWT, GitHub Actions, Azure Static Web Apps, Azure App Service</td>
-      <td align="center"><a href="https://github.com/SAM2512DS/azure-multimodal-rag-graphrag">GitHub</a></td>
+      <td align="center"><a href="https://github.com/SAM2512DS/azure-multimodal-rag-graphrag">View </a></td>
     </tr>
     <tr>
       <td><b>🩺 Clinical Q&A AI Assistant</b></td>
       <td>Python, Flask, RAG, Azure OpenAI, Azure AI Search, LangChain, Prompt Engineering</td>
-      <td align="center"><a href="https://github.com/SAM2512DS/azure-clinical-qa-bot">GitHub</a></td>
+      <td align="center"><a href="https://github.com/SAM2512DS/azure-clinical-qa-bot">View </a></td>
     </tr>
     <tr>
       <td><b>👾 Gemma 3 AI Assistant</b></td>
       <td>Streamlit, LLM, Ollama, Pandas, Prompt Engineering</td>
-      <td align="center"><a href="https://github.com/SAM2512DS/Gen-AI-App-Using-Gemma-3">GitHub</a></td>
+      <td align="center"><a href="https://github.com/SAM2512DS/Gen-AI-App-Using-Gemma-3">View </a></td>
     </tr>
     <tr>
       <td><b>🌍 Disaster Management System</b></td>
       <td>Python, Django, React, HTML, SCSS, JavaScript, Docker, Redis, WebSocket, PostgreSQL</td>
-      <td align="center"><a href="https://github.com/SAM2512DS/DISASTER-MANAGEMENT-SYSTEM">GitHub</a></td>
+      <td align="center"><a href="https://github.com/SAM2512DS/DISASTER-MANAGEMENT-SYSTEM">View </a></td>
     </tr>
     <tr>
       <td><b>🧠 Brain Tumor Detection (VGG16)</b></td>
       <td>Python, ML, Deep Learning, TensorFlow, Keras, VGG16, Django, SQLite</td>
-      <td align="center"><a href="https://github.com/SAM2512DS/BrainTumor-Detection-Using-DeepLearningVGG16">GitHub</a></td>
+      <td align="center"><a href="https://github.com/SAM2512DS/BrainTumor-Detection-Using-DeepLearningVGG16">View </a></td>
     </tr>
     <tr>
       <td><b>🪪 Portfolio Project</b></td>
       <td>Python, Django, HTML, CSS, JavaScript, SQLite</td>
-      <td align="center"><a href="https://github.com/SAM2512DS/portfolioproject">GitHub</a></td>
+      <td align="center"><a href="https://github.com/SAM2512DS/portfolioproject">View </a></td>
     </tr>
     <tr>
       <td><b>🚰 Water Potability Prediction</b></td>
       <td>Machine Learning, EDA</td>
-      <td align="center"><a href="https://github.com/SAM2512DS/Water_potability_prediction">GitHub</a></td>
+      <td align="center"><a href="https://github.com/SAM2512DS/Water_potability_prediction">View </a></td>
     </tr>
   </tbody>
 </table>
@@ -149,12 +150,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAM2512DS&show_icons=true&theme=tokyonight&hide_border=true&hide=prs" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SAM2512DS&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAM2512DS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/SAM2512DS?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-9-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/SAM2512DS?tab=followers">
+    <img src="https://img.shields.io/github/followers/SAM2512DS?style=for-the-badge&logo=github&color=58A6FF&labelColor=0D1117&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SAM2512DS&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 </p>
 
 ---
@@ -182,10 +184,6 @@
   <a href="https://github.com/SAM2512DS" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAM2512DS&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/SAM2512DS">SAM2512DS</a></i></p>

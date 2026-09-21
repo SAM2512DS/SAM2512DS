@@ -1,92 +1,73 @@
-<h1 align="center">Hi 👋, I'm SAM DEVA PRASANTH A</h1>
+<div align="center">
 
-<h3 align="center">
-  🚀 AI/ML & Generative AI Engineer • LLM • RAG • Python Full-Stack
-</h3>
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+SAM+DEVA+PRASANTH+A;AI%2FML+%26+Generative+AI+Engineer;LLM+%E2%80%A2+RAG+%E2%80%A2+Python+Full-Stack" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/samdevaprasanth/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <p><b>Building intelligent systems that turn data into decisions.</b></p>
+
+  <a href="https://www.linkedin.com/in/samdevaprasanth/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:samsdp2512@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/samsam25" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  <a href="https://www.kaggle.com/samsam25">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://github.com/SAM2512DS" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/SAM2512DS">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+LLM+%26+RAG+Applications;Python+Full-Stack+Developer;Turning+Data+into+Decisions" alt="Typing SVG" />
-</p>
+</div>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently building **full-stack ML web apps** with Django, Flask & Streamlit
-- 🌱 Exploring **React, Node.js & Docker** for deployment-ready projects
-- 🧠 Deep into **Generative AI, LLMs, RAG pipelines & Agentic AI**
-- 💬 Ask me anything about **Python, Django, ML, Data Science & LLMs**
-- 📫 Reach me at **samsdp2512@gmail.com**
-- 🌍 Based in **Tamil Nadu, India**
+I'm a **Generative AI Engineer** focused on building **production-grade LLM and RAG systems** with a strong Python full-stack foundation. I enjoy taking ideas from notebook → API → deployed product.
+
+- 🔭 **Currently:** Building full-stack ML web apps with **Django, FastAPI & Streamlit**
+- 🧠 **Deep into:** LLMs, RAG pipelines, Agentic AI & GraphRAG
+- 🌱 **Exploring:** React, Node.js & Docker for deployment-ready projects
+- 💬 **Ask me about:** Python • Django • ML • Data Science • LLMs
+- 📫 **Reach me:** **samsdp2512@gmail.com**
+- 🌍 **Based in:** Tamil Nadu, India
 
 ---
 
 ### 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="25%"><b>🧠 Languages</b></td>
-    <td align="center" width="25%"><b>⚙️ Frameworks & Libraries</b></td>
-    <td align="center" width="25%"><b>📊 ML / DS Tools</b></td>
-    <td align="center" width="25%"><b>☁️ DevOps & Big Data</b></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /><br>
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Seaborn-3B4C99?style=flat&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/LightGBM-025E8C?style=flat&logo=lightning&logoColor=white" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=flat&logo=microsoftazure&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-#### 🤖 Generative AI & LLM Stack
+<p align="center">
+  <b>Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css" />
+</p>
 
 <p align="center">
+  <b>Frameworks & Libraries</b><br>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,bootstrap" />
+</p>
+
+<p align="center">
+  <b>ML / Data Science</b><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+  <br>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3B4C99?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-025E8C?style=flat&logo=lightning&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>DevOps & Cloud</b><br>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,azure,heroku" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Generative AI & LLM Stack</b><br>
   <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-0A3D62?style=flat&logo=langchain&logoColor=white" />
@@ -103,94 +84,79 @@
 ### 🚀 Featured Projects
 
 <table>
-  <thead>
-    <tr>
-      <th>💼 Project</th>
-      <th>🧠 Tech Stack</th>
-      <th>🔗 Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🕸️ Azure Multimodal RAG Platform with GraphRAG</b></td>
-      <td>Python, FastAPI, React, Azure OpenAI (GPT-4o), Azure AI Search, Neo4j AuraDB, Neon PostgreSQL, JWT, GitHub Actions</td>
-      <td align="center"><a href="https://github.com/SAM2512DS/azure-multimodal-rag-graphrag">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>🩺 Clinical Q&A AI Assistant</b></td>
-      <td>Python, Flask, RAG, Azure OpenAI, Azure AI Search, LangChain, Prompt Engineering</td>
-      <td align="center"><a href="https://github.com/SAM2512DS/azure-clinical-qa-bot">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>👾 Gemma 3 AI Assistant</b></td>
-      <td>Streamlit, LLM, Ollama, Pandas, Prompt Engineering</td>
-      <td align="center"><a href="https://github.com/SAM2512DS/Gen-AI-App-Using-Gemma-3">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>🌍 Disaster Management System</b></td>
-      <td>Python, Django, React, HTML, SCSS, JavaScript, Docker, Redis, WebSocket, PostgreSQL</td>
-      <td align="center"><a href="https://github.com/SAM2512DS/DISASTER-MANAGEMENT-SYSTEM">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>🧠 Brain Tumor Detection (VGG16)</b></td>
-      <td>Python, Deep Learning, TensorFlow, Keras, VGG16, Django, SQLite</td>
-      <td align="center"><a href="https://github.com/SAM2512DS/BrainTumor-Detection-Using-DeepLearningVGG16">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>🪪 Portfolio Project</b></td>
-      <td>Python, Django, HTML, CSS, JavaScript, SQLite</td>
-      <td align="center"><a href="https://github.com/SAM2512DS/portfolioproject">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>🚰 Water Potability Prediction</b></td>
-      <td>Machine Learning, EDA</td>
-      <td align="center"><a href="https://github.com/SAM2512DS/Water_potability_prediction">GitHub</a></td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🕸️ Azure Multimodal RAG Platform</h4>
+      <p>GraphRAG system with Azure OpenAI, Neo4j AuraDB & FastAPI.</p>
+      <a href="https://github.com/SAM2512DS/azure-multimodal-rag-graphrag"><b>View Repo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🩺 Clinical Q&A AI Assistant</h4>
+      <p>RAG-based clinical assistant using Azure OpenAI, AI Search & LangChain.</p>
+      <a href="https://github.com/SAM2512DS/azure-clinical-qa-bot"><b>View Repo →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>👾 Gemma 3 AI Assistant</h4>
+      <p>Streamlit local LLM assistant using Ollama, Pandas & prompt engineering.</p>
+      <a href="https://github.com/SAM2512DS/Gen-AI-App-Using-Gemma-3"><b>View Repo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌍 Disaster Management System</h4>
+      <p>Full-stack platform with Django, React, Docker, Redis & WebSockets.</p>
+      <a href="https://github.com/SAM2512DS/DISASTER-MANAGEMENT-SYSTEM"><b>View Repo →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Brain Tumor Detection (VGG16)</h4>
+      <p>Deep learning classifier with TensorFlow, Keras & Django.</p>
+      <a href="https://github.com/SAM2512DS/BrainTumor-Detection-Using-DeepLearningVGG16"><b>View Repo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚰 Water Potability Prediction</h4>
+      <p>End-to-end ML pipeline with EDA and model comparison.</p>
+      <a href="https://github.com/SAM2512DS/Water_potability_prediction"><b>View Repo →</b></a>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAM2512DS&show_icons=true&theme=tokyonight&hide_border=true&hide=prs" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SAM2512DS&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAM2512DS&show_icons=true&theme=tokyonight&hide_border=true&hide=prs&rank_icon=github" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SAM2512DS&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAM2512DS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 💡 Quote I Live By
-
-<p align="center">
-  <i>“In God we trust. All others must bring data.”</i> — <b>W. Edwards Deming</b>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAM2512DS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/samdevaprasanth/" target="_blank">
+  <i>“In God we trust. All others must bring data.”</i>
+  <br>
+  <b>— W. Edwards Deming</b>
+
+  <br><br>
+
+  <a href="https://www.linkedin.com/in/samdevaprasanth/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:samsdp2512@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/samsam25" target="_blank">
+  <a href="https://www.kaggle.com/samsam25">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://github.com/SAM2512DS" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAM2512DS&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+  <br><br>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/SAM2512DS">SAM2512DS</a></i></p>
+  <img src="https://komarev.com/ghpvc/?username=SAM2512DS&label=Profile%20Views&color=58A6FF&style=flat" />
+
+</div>

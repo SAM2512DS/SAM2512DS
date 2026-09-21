@@ -1,7 +1,7 @@
-<h1 align="center">SAM DEVA PRASANTH A</h1>
+<h1 align="center">Hi 👋, I'm SAM DEVA PRASANTH A</h1>
 
 <h3 align="center">
-  AI/ML & Generative AI Engineer | LLM • RAG • Python Full-Stack
+  🚀 AI/ML & Generative AI Engineer | LLM • RAG • Python Full-Stack
 </h3>
 
 <p align="center">
@@ -21,26 +21,25 @@
 
 ---
 
-### About Me
+### 🔍 About Me
 
-- Currently building **full-stack ML web apps** with Django, Flask & Streamlit
-- Exploring **React, Node.js & Docker** for deployment-ready projects
-- Deep into **Generative AI, LLMs, RAG pipelines & Agentic AI**
-- Ask me anything about **Python, Django, ML, Data Science & LLMs**
-- Reach me at **samsdp2512@gmail.com**
-- Based in **Tamil Nadu, India**
-
+- 🧠 Deep into **Generative AI, LLMs, RAG pipelines & Agentic AI**
+- 🔭 Currently building **LLM-powered apps** with LangChain, LlamaIndex, Azure OpenAI & Streamlit
+- 🌱 Exploring **Docker, GitHub Actions & Azure** for deployment-ready AI projects
+- 💬 Ask me about **Python, LLMs, RAG, Azure AI & Data Science**
+- 📫 Reach me at **samsdp2512@gmail.com**
+- 🌍 Based in **Tamil Nadu, India**
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <table>
   <tr>
-    <td align="center" width="20%"><b>Languages</b></td>
-    <td align="center" width="20%"><b>Frameworks & Libraries</b></td>
-    <td align="center" width="20%"><b>ML / DS Tools</b></td>
-    <td align="center" width="20%"><b>DevOps & Cloud</b></td>
-    <td align="center" width="20%"><b>Generative AI & LLM</b></td>
+    <td align="center" width="20%"><b>🧠 Languages</b></td>
+    <td align="center" width="20%"><b>⚙️ Frameworks & Libraries</b></td>
+    <td align="center" width="20%"><b>📊 ML / DS Tools</b></td>
+    <td align="center" width="20%"><b>☁️ DevOps & Cloud</b></td>
+    <td align="center" width="20%"><b>🤖 Generative AI & LLM</b></td>
   </tr>
   <tr>
     <td align="center" valign="top">
@@ -96,49 +95,49 @@
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
 <table>
   <thead>
     <tr>
-      <th>Project</th>
-      <th>Tech Stack</th>
-      <th>Link</th>
+      <th>💼 Project</th>
+      <th>🧠 Tech Stack</th>
+      <th>🔗 Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>Azure Multimodal RAG Platform with GraphRAG</b></td>
-      <td>Python, FastAPI, React, Azure OpenAI (GPT-4o), Azure AI Search, Neo4j AuraDB, Neon PostgreSQL, JWT, GitHub Actions</td>
+      <td><b>🕸️ Azure Multimodal RAG Platform with GraphRAG</b></td>
+      <td>Python, FastAPI, React, Azure OpenAI (GPT-4o, text-embedding-3-small), Azure AI Search, Neo4j AuraDB, Neon PostgreSQL, JWT, GitHub Actions, Azure Static Web Apps, Azure App Service</td>
       <td align="center"><a href="https://github.com/SAM2512DS/azure-multimodal-rag-graphrag">GitHub</a></td>
     </tr>
     <tr>
-      <td><b>Clinical Q&A AI Assistant</b></td>
+      <td><b>🩺 Clinical Q&A AI Assistant</b></td>
       <td>Python, Flask, RAG, Azure OpenAI, Azure AI Search, LangChain, Prompt Engineering</td>
       <td align="center"><a href="https://github.com/SAM2512DS/azure-clinical-qa-bot">GitHub</a></td>
     </tr>
     <tr>
-      <td><b>Gemma 3 AI Assistant</b></td>
+      <td><b>👾 Gemma 3 AI Assistant</b></td>
       <td>Streamlit, LLM, Ollama, Pandas, Prompt Engineering</td>
       <td align="center"><a href="https://github.com/SAM2512DS/Gen-AI-App-Using-Gemma-3">GitHub</a></td>
     </tr>
     <tr>
-      <td><b>Disaster Management System</b></td>
+      <td><b>🌍 Disaster Management System</b></td>
       <td>Python, Django, React, HTML, SCSS, JavaScript, Docker, Redis, WebSocket, PostgreSQL</td>
       <td align="center"><a href="https://github.com/SAM2512DS/DISASTER-MANAGEMENT-SYSTEM">GitHub</a></td>
     </tr>
     <tr>
-      <td><b>Brain Tumor Detection (VGG16)</b></td>
-      <td>Python, Deep Learning, TensorFlow, Keras, VGG16, Django, SQLite</td>
+      <td><b>🧠 Brain Tumor Detection (VGG16)</b></td>
+      <td>Python, ML, Deep Learning, TensorFlow, Keras, VGG16, Django, SQLite</td>
       <td align="center"><a href="https://github.com/SAM2512DS/BrainTumor-Detection-Using-DeepLearningVGG16">GitHub</a></td>
     </tr>
     <tr>
-      <td><b>Portfolio Project</b></td>
+      <td><b>🪪 Portfolio Project</b></td>
       <td>Python, Django, HTML, CSS, JavaScript, SQLite</td>
       <td align="center"><a href="https://github.com/SAM2512DS/portfolioproject">GitHub</a></td>
     </tr>
     <tr>
-      <td><b>Water Potability Prediction</b></td>
+      <td><b>🚰 Water Potability Prediction</b></td>
       <td>Machine Learning, EDA</td>
       <td align="center"><a href="https://github.com/SAM2512DS/Water_potability_prediction">GitHub</a></td>
     </tr>
@@ -147,7 +146,7 @@
 
 ---
 
-### GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SAM2512DS&show_icons=true&theme=tokyonight&hide_border=true&hide=prs" alt="GitHub Stats" height="165">
@@ -160,7 +159,7 @@
 
 ---
 
-### Quote I Live By
+### 💡 Quote I Live By
 
 <p align="center">
   <i>"In God we trust. All others must bring data."</i> — <b>W. Edwards Deming</b>
@@ -168,7 +167,7 @@
 
 ---
 
-### Let's Connect
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samdevaprasanth/" target="_blank">
@@ -189,4 +188,4 @@
   <img src="https://komarev.com/ghpvc/?username=SAM2512DS&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center"><i>From <a href="https://github.com/SAM2512DS">SAM2512DS</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/SAM2512DS">SAM2512DS</a></i></p>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAM DEVA PRASANTH A</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Python, ML & Full-Stack Enthusiast</h3>
+<h3 align="center">🚀 AI/ML & Generative AI Engineer | LLM • RAG • Python Full-Stack</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samdevaprasanth/" target="_blank">

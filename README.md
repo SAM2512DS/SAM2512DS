@@ -86,17 +86,36 @@
 
 #### 🤖 Generative AI & LLM Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-0A3D62?style=flat&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-1C1C1C?style=flat&logo=llamaindex&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-FF007F?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-4B0082?style=flat&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-2E8B57?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%"><b>🧠 LLM Frameworks</b></td>
+    <td align="center" width="25%"><b>🔗 Orchestration</b></td>
+    <td align="center" width="25%"><b>📚 Retrieval & RAG</b></td>
+    <td align="center" width="25%"><b>☁️ Providers & Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat&logo=openai&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/LLMs-FF007F?style=flat&logo=openai&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/LangChain-0A3D62?style=flat&logo=langchain&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/LlamaIndex-1C1C1C?style=flat&logo=llamaindex&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-2E8B57?style=flat&logo=openai&logoColor=white" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/RAG-4B0082?style=flat&logo=databricks&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/GraphRAG-6A0DAD?style=flat&logo=neo4j&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Vector_Search-005571?style=flat&logo=elasticsearch&logoColor=white" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 

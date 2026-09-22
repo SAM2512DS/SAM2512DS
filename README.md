@@ -36,11 +36,13 @@
 
 <table>
   <tr>
-    <td align="center" width="20%"><b>🧠 Languages</b></td>
-    <td align="center" width="20%"><b>⚙️ Frameworks & Libraries</b></td>
-    <td align="center" width="20%"><b>📊 ML / DS Tools</b></td>
-    <td align="center" width="20%"><b>☁️ DevOps & Cloud</b></td>
-    <td align="center" width="20%"><b>🤖 Generative AI & LLM</b></td>
+    <td align="center" width="14%"><b>🧠 Languages</b></td>
+    <td align="center" width="15%"><b>⚙️ Frameworks & Libraries</b></td>
+    <td align="center" width="15%"><b>📊 ML / DS Tools</b></td>
+    <td align="center" width="14%"><b>🗄️ Databases</b></td>
+    <td align="center" width="14%"><b>☁️ DevOps & Cloud</b></td>
+    <td align="center" width="15%"><b>🤖 Generative AI & LLM</b></td>
+    <td align="center" width="13%"><b>🔄 AI Automation</b></td>
   </tr>
   <tr>
     <td align="center" valign="top">
@@ -52,14 +54,16 @@
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /><br>
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
     </td>
     <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Seaborn-3B4C99?style=flat&logo=python&logoColor=white" /><br>
@@ -68,15 +72,26 @@
       <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/LightGBM-025E8C?style=flat&logo=lightning&logoColor=white" />
+      <img src="https://img.shields.io/badge/LightGBM-025E8C?style=flat&logo=lightning&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Neon_PostgreSQL-00E599?style=flat&logo=postgresql&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Neo4j_AuraDB-4581C3?style=flat&logo=neo4j&logoColor=white" />
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Azure_App_Service-0078D4?style=flat&logo=microsoftazure&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=flat&logo=python&logoColor=white" />
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat&logo=openai&logoColor=white" /><br>
@@ -85,11 +100,23 @@
       <img src="https://img.shields.io/badge/LangChain-0A3D62?style=flat&logo=langchain&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/LlamaIndex-1C1C1C?style=flat&logo=llamaindex&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/RAG-4B0082?style=flat&logo=databricks&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Multimodal_RAG-6A0DAD?style=flat&logo=neo4j&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/GraphRAG-6A0DAD?style=flat&logo=neo4j&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Prompt_Engineering-2E8B57?style=flat&logo=openai&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Groq-FF6B6B?style=flat&logo=groq&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/RAGAS-4B0082?style=flat&logo=databricks&logoColor=white" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/n8n-EF6C00?style=flat&logo=n8n&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Dify_AI-1C1C1C?style=flat&logo=dify&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Webhook_Orchestration-6A0DAD?style=flat&logo=webhook&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Tool_Calling-2E8B57?style=flat&logo=openai&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/API_Integration-4B0082?style=flat&logo=postman&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Low--Code_LLM_Apps-8A2BE2?style=flat&logo=openai&logoColor=white" />
     </td>
   </tr>
 </table>

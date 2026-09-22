@@ -36,13 +36,14 @@
 
 <table>
   <tr>
-    <td align="center" width="14%"><b>🧠 Languages</b></td>
-    <td align="center" width="15%"><b>⚙️ Frameworks & Libraries</b></td>
-    <td align="center" width="15%"><b>📊 ML / DS Tools</b></td>
-    <td align="center" width="14%"><b>🗄️ Databases</b></td>
-    <td align="center" width="14%"><b>☁️ DevOps & Cloud</b></td>
-    <td align="center" width="15%"><b>🤖 Generative AI & LLM</b></td>
-    <td align="center" width="13%"><b>🔄 AI Automation</b></td>
+    <td align="center" width="13%"><b>🧠 Languages</b></td>
+    <td align="center" width="13%"><b>⚙️ Frameworks & Libraries</b></td>
+    <td align="center" width="14%"><b>📊 ML / DS Tools</b></td>
+    <td align="center" width="12%"><b>🗄️ Databases</b></td>
+    <td align="center" width="13%"><b>☁️ DevOps & Cloud</b></td>
+    <td align="center" width="14%"><b>🤖 Generative AI & LLM</b></td>
+    <td align="center" width="11%"><b>🕹️ Agentic AI</b></td>
+    <td align="center" width="10%"><b>🔄 AI Automation</b></td>
   </tr>
   <tr>
     <td align="center" valign="top">
@@ -73,7 +74,9 @@
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/LightGBM-025E8C?style=flat&logo=lightning&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /><br>
@@ -108,19 +111,25 @@
       <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Groq-FF6B6B?style=flat&logo=groq&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/LoRA_QLoRA_PEFT-8A2BE2?style=flat&logo=openai&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/RAGAS-4B0082?style=flat&logo=databricks&logoColor=white" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/AutoGen-4B0082?style=flat&logo=microsoft&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/CrewAI-FF4500?style=flat&logo=crewai&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/LangGraph-0A3D62?style=flat&logo=langchain&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Tool_Calling-2E8B57?style=flat&logo=openai&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/AI_Agent_Workflows-FF4500?style=flat&logo=openai&logoColor=white" />
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/n8n-EF6C00?style=flat&logo=n8n&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Dify_AI-1C1C1C?style=flat&logo=dify&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Webhook_Orchestration-6A0DAD?style=flat&logo=webhook&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Tool_Calling-2E8B57?style=flat&logo=openai&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/API_Integration-4B0082?style=flat&logo=postman&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Low--Code_LLM_Apps-8A2BE2?style=flat&logo=openai&logoColor=white" />
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🚀 Featured Projects

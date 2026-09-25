@@ -113,6 +113,8 @@
       <img src="https://img.shields.io/badge/Groq-FF6B6B?style=flat&logo=groq&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/LoRA_QLoRA_PEFT-8A2BE2?style=flat&logo=openai&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/RAGAS-4B0082?style=flat&logo=databricks&logoColor=white" />
+      <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6A0DAD?style=flat&logo=openai&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/FastMCP-4B0082?style=flat&logo=python&logoColor=white" /><br>
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/AutoGen-4B0082?style=flat&logo=microsoft&logoColor=white" /><br>
